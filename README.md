@@ -11,7 +11,7 @@
 </div>
 
 <br> 
-I am an **Animator Coder** who blends the worlds of animation and coding to create mesmerizing visual experiences. With a passion for developing innovative tools, I constantly explore new techniques in digital animation, pushing the boundaries of creativity and technology.
+I am an Animator Coder who blends the worlds of animation and coding to create mesmerizing visual experiences. With a passion for developing innovative tools, I constantly explore new techniques in digital animation, pushing the boundaries of creativity and technology.
 
 💡 Always learning, experimenting, and improving in the fields of animation and coding.
 
@@ -35,7 +35,7 @@ I am an **Animator Coder** who blends the worlds of animation and coding to crea
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,blender,github" /><br>
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,blender,github,vscode" /><br>
 </div>
 
 <br/>
